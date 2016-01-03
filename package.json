@@ -1,0 +1,12 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_module/.bin/electron .",
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+}
